@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Welcome to Emirates!","مرحبا بكم في طيران الإمارات"];
+const statusMessages = [" "];
 
 
 let currentIndex = 0;
