@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Kon's Marketplace, Explore Buy and Relax "];
+const statusMessages = [" "];
 
 
 let currentIndex = 0;
