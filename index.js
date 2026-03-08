@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Assisting Orbit 24/7", "DM me !help"];
+const statusMessages = ["!help | Orbit Airlines Support"];
 
 
 let currentIndex = 0;
